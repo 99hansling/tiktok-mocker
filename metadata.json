@@ -1,0 +1,5 @@
+{
+  "name": "TokClone",
+  "description": "A fully functional short-video social platform clone supporting video uploads, infinite scroll, likes, comments, and AI-powered interactions.",
+  "requestFramePermissions": []
+}
